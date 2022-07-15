@@ -3,7 +3,7 @@ var scheduleChart = document.querySelector("#chart")
 // Current time by 24HR clock just the Hours
 var time = moment().format("H")
 
-time = time - 20
+// time = time - 20
 
 // Testing for current time
 // console.log(time)
